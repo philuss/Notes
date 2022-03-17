@@ -98,7 +98,7 @@ public boolean dispatchTouchEvent(MotionEvent event) {
 
 事件分发流程图
 
-![事件传递-事件分发——View#dispatchTouchEvent](事件传递.assets/事件传递-事件分发——View#dispatchTouchEvent.jpg)
+![](https://github.com/philuss/Notes/blob/dev/Imgs/View%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92/%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92_%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91_%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91.jpg?raw=true)
 
 
 
@@ -378,23 +378,23 @@ public boolean onTouchEvent(MotionEvent event) {
 
 事件消费流程图
 
-![事件传递-事件分发——View事件消费](事件传递.assets/事件传递-事件分发——View事件消费-16421461896391.jpg)
+![](https://github.com/philuss/Notes/blob/dev/Imgs/View%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92/%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92_%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91_View%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9.jpg?raw=true)
 
 Down事件
 
-![](https://github.com/philuss/Notes/blob/dev/View%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9-Down%E4%BA%8B%E4%BB%B6-16421464033742.jpg?raw=true)
+![](https://github.com/philuss/Notes/blob/dev/Imgs/View%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92/View%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9_Down%E4%BA%8B%E4%BB%B6.jpg?raw=true)
 
 
 
 Move事件
 
-![View事件消费-Move事件](事件传递.assets/View事件消费-Move事件-16421465778493.jpg)
+![](https://github.com/philuss/Notes/blob/dev/Imgs/View%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92/View%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9_Move%E4%BA%8B%E4%BB%B6.jpg?raw=true)
 
 
 
 Up事件
 
-![View事件消费-Up事件](事件传递.assets/View事件消费-Up事件-16421465867934.jpg)
+![View事件消费-Up事件](https://github.com/philuss/Notes/blob/dev/Imgs/View%E4%BA%8B%E4%BB%B6%E4%BC%A0%E9%80%92/View%E4%BA%8B%E4%BB%B6%E6%B6%88%E8%B4%B9_Up%E4%BA%8B%E4%BB%B6.jpg?raw=true)
 
 
 
